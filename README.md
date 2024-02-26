@@ -1,7 +1,5 @@
 <!-- Header -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%21&fontSize=45&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
-
 # Hello, I'm Yongjin 👏
 
 ### 🖥 I am interested in Back-End Engineering.
