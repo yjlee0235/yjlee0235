@@ -2,7 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%21&fontSize=45&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 이용진입니다!  
+# Hello, I'm Yongjin 👏
+
+### 🖥 I am interested in Back-End Engineering.
+### But I believe that eventually, I should be interested in Front-End Engineering too.
+### 🌱 So I am growing as a Full-Stack Engineer.
+
+
 
 <!-- Body -->
 
