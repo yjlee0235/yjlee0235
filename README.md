@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/yjlee0235">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=AI-native+Product+Engineer;Backend+at+the+core+%C2%B7+shipping+end-to-end;Building+products+with+AI+agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=AI-native+Product+Engineer;Backend-first+%C2%B7+shipping+end-to-end;Building+products+with+AI+agents" alt="Typing SVG" />
   </a>
 </p>
 
