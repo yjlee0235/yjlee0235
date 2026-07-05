@@ -54,8 +54,6 @@
 
 <!-- ============ Contribution Snake ============ -->
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yjlee0235/yjlee0235/output/snake-dark.svg" />
