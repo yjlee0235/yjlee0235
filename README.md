@@ -5,6 +5,7 @@
 - 🖥 I am interested in Back-End Engineering.
 - But I believe that to provide a good service, one must also understand Front-End Engineering.
 - 🌱 So I am growing as a Full-Stack Engineer.
+- 🤖 I actively leverage AI Agent tools (Claude Code, Codex) to build faster and smarter.
 
 
 <!-- Body -->
@@ -25,6 +26,11 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+**AI**
+
+![claude](https://img.shields.io/badge/Claude-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
+![openai](https://img.shields.io/badge/OpenAI-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
+
 
 ## 🛠️ Infra and Tools
 
@@ -38,9 +44,19 @@
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📋 ETC
+**AI Dev Tools**
 
-[![Yongjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjlee0235)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjlee235)](https://solved.ac/profile/yjlee235)
+![claude-code](https://img.shields.io/badge/Claude%20Code-D97757.svg?&style=for-the-badge&logo=claude&logoColor=white)
+![codex](https://img.shields.io/badge/Codex-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjlee0235&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yjlee0235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yongjin's GitHub stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yjlee0235&theme=tokyonight&hide_border=true" alt="Yongjin's GitHub streak" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjlee0235&layout=compact&theme=tokyonight&hide_border=true" alt="Yongjin's Top Languages" />
+</p>
